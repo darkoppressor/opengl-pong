@@ -121,7 +121,9 @@ bool init(){
         printf("Unable to init SDL: %s\n",SDL_GetError());
         return false;
     }
-    fprintf(stderr,"Whoa! Test!",SDL_GetError());
+
+    ///fprintf(stderr,"Whoa! Test!",SDL_GetError());
+
     /**Set OpenGL attributes:*/
     SDL_GL_SetAttribute(SDL_GL_RED_SIZE,8);
     SDL_GL_SetAttribute(SDL_GL_GREEN_SIZE,8);
