@@ -1,8 +1,0 @@
-syntax: glob
-bin
-obj
-.objs
-OpenGLPong
-*.depend
-Thumbs.db
-*.cfg
