@@ -1,5 +1,6 @@
 # opengl-pong
 Pong using OpenGL!
+http://cheeseandbacon.org/
 
 Yet another simple pong clone. This one is actually simpler than the other two. It uses OpenGL for graphics.
 Noticing the relatively slow framerates inherent in software rendering, I determined to learn how to use OpenGL to access hardware rendering.
